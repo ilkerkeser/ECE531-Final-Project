@@ -19,6 +19,7 @@ The project proposes a domain-agnostic "Tracking-by-Detection" pipeline that sea
 > ![F-35 Tracking](f35_high_speed.png)
 
 > *The system successfully measures instantaneous velocity and predicts the parabolic trajectory of an F-35 jet.*
+> The video link: https://youtube.com/shorts/lOAqMRpqnXg?si=ffaqGTSJh-6EdOEl
 
 > **Terrestrial Vehicle Tracking**
 > 
