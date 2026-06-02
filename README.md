@@ -21,7 +21,7 @@ The project proposes a domain-agnostic "Tracking-by-Detection" pipeline that sea
 > *The system successfully measures instantaneous velocity and predicts the parabolic trajectory of an F-35 jet.*
 
 > **Terrestrial Vehicle Tracking**
-> ![Car Tracking](<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/5be83cb7-8388-4b5c-8775-a7a0b201ee66" />)
+> ![Car Tracking]([<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/5be83cb7-8388-4b5c-8775-a7a0b201ee66" />](https://github.com/ilkerkeser/ECE531-Final-Project/blob/main/car.png))
 > *The algorithm tracks a moving car by solely adjusting the minimum velocity threshold.*
 
 ## 🛠️ How to Run
