@@ -37,6 +37,7 @@ This project is built and optimized for **Google Colab**, making it incredibly e
 2. Ensure the Runtime is set to **GPU** (`Runtime > Change runtime type > T4 GPU`).
 3. Run all cells sequentially (`Runtime > Run all`).
    * *Note: The necessary sample videos (e.g., F-35 and car footage) are automatically downloaded from public drives within the code.*
+4. If anything an error you get about rfdetr, you can write the "pip install rfdetr" in terminal.
 
 ## 📂 Repository Structure
 
