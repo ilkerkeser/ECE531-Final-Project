@@ -31,7 +31,7 @@ The project proposes a domain-agnostic "Tracking-by-Detection" pipeline that sea
 This project is built and optimized for **Google Colab**, making it incredibly easy to reproduce the results without any local environment setup.
 
 1. Open the notebook in Google Colab: 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1joeAx2vhoGZI_TPkNFLiKJ033ySEHqPV?usp=sharing))
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1joeAx2vhoGZI_TPkNFLiKJ033ySEHqPV?usp=sharing)
 2. Ensure the Runtime is set to **GPU** (`Runtime > Change runtime type > T4 GPU`).
 3. Run all cells sequentially (`Runtime > Run all`).
    * *Note: The necessary sample videos (e.g., F-35 and car footage) are automatically downloaded from public drives within the code.*
