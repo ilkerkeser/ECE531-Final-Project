@@ -14,14 +14,16 @@ The project proposes a domain-agnostic "Tracking-by-Detection" pipeline that sea
 
 ## 📊 Experimental Results
 
-*You can add screenshots or GIFs of your tracking outputs here. For example:*
-
 > **Aerial Target Tracking (F-35)**
-> ![F-35 Tracking](<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/dcf94fa1-1a41-4cc0-99d2-f08a3d3fe760" />)
+> 
+> ![F-35 Tracking](f35_high_speed.png)
+
 > *The system successfully measures instantaneous velocity and predicts the parabolic trajectory of an F-35 jet.*
 
 > **Terrestrial Vehicle Tracking**
-> ![Car Tracking]([<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/5be83cb7-8388-4b5c-8775-a7a0b201ee66" />](https://github.com/ilkerkeser/ECE531-Final-Project/blob/main/car.png))
+> 
+> ![Car Tracking](car.png)
+
 > *The algorithm tracks a moving car by solely adjusting the minimum velocity threshold.*
 
 ## 🛠️ How to Run
